@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "author": "Aaron Ellard",
+      "username": "elo69",
+      "timestamp": "Mon Mar 02 2020, 9:2",
+      "body": "Hello wooooorld!"
+    },
+    {
+      "id": 2,
+      "author": "Ryan Austin",
+      "username": "allsgood1",
+      "timestamp": "Mon Mar 02 2020, 9:2",
+      "body": "is this semester over yet"
+    },
+    {
+      "id": 3,
+      "author": "Ryan Austin",
+      "username": "allsgood1",
+      "timestamp": "Wed Jan 30 2020, 9:2",
+      "body": "Best birfday everr!"
+    },
+    {
+      "id": 4,
+      "author": "Hunter Gamble",
+      "username": "atlc",
+      "timestamp": "Mon Dec 31 2019, 9:2",
+      "body": "I think i have hacked bitcoin. free moneys 4 all"
+    },
+    {
+      "id": 5,
+      "author": "Jillian",
+      "username": "jillPlug",
+      "timestamp": "Mon Oct 30 2019, 4:3",
+      "body": "guys the funniest thing happened to me last night"
+    }
+  ]
